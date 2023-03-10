@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1677424672 source:c:\users\dell\documents\code blocks\avira_is_a_snake\src\snake.cpp
+	"Snake.h"
+	<windows.h>
+	<vector>
+
+1677425289 c:\users\dell\documents\code blocks\avira_is_a_snake\include\snake.h
+	<windows.h>
+	<vector>
+
+1677185861 source:c:\users\dell\documents\code blocks\avira_is_a_snake\src\food.cpp
+	"Food.h"
+	<windows.h>
+	<cstdlib>
+
+1677185848 c:\users\dell\documents\code blocks\avira_is_a_snake\include\food.h
+	<windows.h>
+	<cstdlib>
+
+1677425458 source:c:\users\dell\documents\code blocks\avira_is_a_snake\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"Snake.h"
+	"Food.h"
+
